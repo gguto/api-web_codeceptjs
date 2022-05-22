@@ -1,0 +1,19 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "Projeto de automação feito para processo seletivo do Itau Unibanco",
+  "keywords": [],
+  "author": "Carlos Augusto Machado",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^6.10.6",
+    "axios": "0.20.0",
+    "chai": "*",
+    "codeceptjs": "^3.0.2",
+    "csvtojson": "2.0.10",
+    "faker": "5.1.0",
+    "fs-extra": "9.0.1",
+    "moment": "2.29.1",
+    "webdriverio": "^6.10.7"
+  }
+}
